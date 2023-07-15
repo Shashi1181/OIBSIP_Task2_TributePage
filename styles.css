@@ -1,0 +1,34 @@
+body {  
+    background-color: #f0f5f3;  
+    margin: 20%;  
+}  
+#title {  
+    text-align: center;  
+    text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.527);  
+    font-size: 8vh;  
+}  
+img {  
+    display: inline-block;  
+    width: 100%;  
+}     
+
+#tribute-data {  
+    background-color: rgba(0, 128, 0, 0.523);  
+    box-shadow: 20px 20px 20px rgba(47, 128, 0, 0.817);  
+    padding: 25px 25px;  
+    margin: 11px;  
+    margin-top: 50px;  
+}  
+h1.virat {  
+    font-size: 35px;  
+    color: white;  
+    text-align: center;  
+    text-shadow: 5px 6px 10px black;  
+}     
+footer{
+    text-shadow: 5px 6px 10px black;
+    text-align:right;
+    font-size: 35px;
+    color: #f0f5f3a2;
+    
+}
